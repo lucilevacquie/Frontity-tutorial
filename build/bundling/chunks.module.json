@@ -1,0 +1,89 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "7f8fdc1ece4f677a8b79",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\lucil\\Desktop\\Projects\\aidan-website\\build\\static",
+  "assetsByChunkName": {
+    "aidan-website": [
+      "aidan-website.module.js",
+      "aidan-website.b6f5e623fe17d07e5756.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "aidan-website.b6f5e623fe17d07e5756.hot-update.js",
+      "size": 2448,
+      "chunks": [
+        "aidan-website"
+      ],
+      "chunkNames": [
+        "aidan-website"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "aidan-website.module.js",
+      "size": 4844770,
+      "chunks": [
+        "aidan-website"
+      ],
+      "chunkNames": [
+        "aidan-website"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "b6f5e623fe17d07e5756.hot-update.json",
+      "size": 55,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "aidan-website": {
+      "chunks": [
+        "aidan-website"
+      ],
+      "assets": [
+        "aidan-website.module.js",
+        "aidan-website.b6f5e623fe17d07e5756.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "aidan-website": {
+      "chunks": [
+        "aidan-website"
+      ],
+      "assets": [
+        "aidan-website.module.js",
+        "aidan-website.b6f5e623fe17d07e5756.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}
